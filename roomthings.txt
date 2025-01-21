@@ -1,0 +1,4 @@
+books
+bed
+pillow
+chair
